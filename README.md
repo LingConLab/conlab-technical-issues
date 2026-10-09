@@ -1,6 +1,7 @@
 Репозиторий технической поддержки ресурсов Международной лаборатории языковой конвергенции.
 
-- [эту страницу](https://github.com/LingConLab/conlab-server-issues/issues/new/choose)
+- [получить доступ к NAS](https://github.com/LingConLab/conlab-technical-issues/issues/new?template=nas-user-creation.yml)
+- [получить доступ к серверу](https://github.com/LingConLab/conlab-technical-issues/issues/new?template=server-user-creation.yml)
 
 ## Подключение к NAS
 
