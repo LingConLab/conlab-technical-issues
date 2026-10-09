@@ -1,0 +1,21 @@
+name: NAS user creation
+description: File a bug report.
+title: "NAS User creation"
+assignees:
+  - agricolamz
+type: user_creation
+body:
+  - type: input
+    id: user_name
+    attributes:
+      label: Вставьте, пожалуйста, Ваше имя
+      placeholder: Пётр Карлович Услар
+    validations:
+      required: false
+  - type: input
+    id: user_login
+    attributes:
+      label: Вставьте, пожалуйста, логин, который бы Вы хотели иметь
+      placeholder: caucasus_traveler
+    validations:
+      required: false
