@@ -1,0 +1,13 @@
+name: Server user creation
+title: "Server User creation"
+assignees:
+  - agricolamz
+type: server_user_creation
+body:
+  - type: input
+    id: user_name
+    attributes:
+      label: Вставьте, пожалуйста, Ваше имя
+      placeholder: Пётр Карлович Услар
+    validations:
+      required: false
