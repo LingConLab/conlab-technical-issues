@@ -1,7 +1,7 @@
 name: Server user creation
 description: Server user creation
 title: "Server User creation"
-label: server_user_creation 
+labels: ["server_user_creation"]
 assignees:
   - agricolamz
 type: server_user_creation

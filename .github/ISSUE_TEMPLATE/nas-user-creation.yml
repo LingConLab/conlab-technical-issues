@@ -1,7 +1,7 @@
 name: NAS user creation
 description: NAS user creation
 title: "NAS User creation"
-label: nas_user_creation 
+labels: ["nas_user_creation"]
 assignees:
   - agricolamz
 type: nas_user_creation
